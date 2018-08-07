@@ -1,6 +1,6 @@
 # hello-world
 A beinning of github
 
-Hi, hunman.
+Hi, human.
 I enjoy the learning of python
 
